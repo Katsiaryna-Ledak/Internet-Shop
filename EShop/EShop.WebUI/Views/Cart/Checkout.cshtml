@@ -1,0 +1,69 @@
+﻿@model EShop.Domain.Entities.ShippingDetails
+
+@{
+  ViewBag.Title = "EShop: Checkout";
+}
+
+<h2>Оформить заказ сейчас</h2>
+Пожалуйста, введите свои данные, и мы постараемся доставить Вам товар как можно быстрее !
+@using (Html.BeginForm())
+{
+    <h3>Кому</h3>
+    <div class="controls">
+        <label class="col-sm-2 control-label">Имя</label>
+            <div class="col-sm-10">
+                <input class="form-control" id="Name" name="Name" placeholder="ФИО">
+            </div>
+    </div>
+
+    <h3>Адрес</h3>
+
+    <form class="form-horizontal" role="form">
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Домашний адрес</label>
+            <div class="col-sm-10">
+                <input class="form-control" id="Line1" name="Line1" placeholder="Домашний адрес">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Область</label>
+            <div class="col-sm-10">
+                <input class="form-control" id="State" name="State" placeholder="Область">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Город</label>
+            <div class="col-sm-10">
+                <input class="form-control" id="City" name="City" placeholder="Город">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Почтовый индекс</label>
+            <div class="col-sm-10">
+                <input class="form-control" id="Zip" name="Zip" placeholder="Почтовый индекс">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Страна</label>
+            <div class="col-sm-10">
+                <input class="form-control" name="Country" id="Country" placeholder="Страна">
+            </div>
+        </div>
+
+        <h3>Опции</h3>
+        <label>
+            @Html.EditorFor(x => x.GiftWrap)
+            Подарочная упаковка
+        </label>
+
+        <p align="center">
+            <input class="actionButtons btn btn-large btn-primary actionButtons" type="submit" value="Готово!" />
+        </p>
+    </form>
+}
+    
+  

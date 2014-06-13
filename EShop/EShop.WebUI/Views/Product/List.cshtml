@@ -1,0 +1,19 @@
+﻿@model EShop.WebUI.Models.ProductsListViewModel
+
+@{
+  ViewBag.Title = "Products";
+}
+
+@foreach (var p in Model.Products)
+{
+  Html.RenderPartial("ProductSummary", p);
+}
+
+<div class="pagination-lg">
+    <div class="pager">
+        <li class="active">
+            @Html.PageLinks(Model.PagingInfo, x => Url.Action("List",
+            new { page = x, category = Model.CurrentCategory }))
+        </li>
+    </div>
+</div>

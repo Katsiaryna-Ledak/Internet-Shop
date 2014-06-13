@@ -1,0 +1,207 @@
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Providers.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Http.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\obj\Debug\EShop.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\EShop.WebUI.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\EShop.WebUI.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\EntityFramework.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\EShop.Domain.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\Moq.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\Ninject.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.Http.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.Providers.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\WebGrease.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\EShop.Domain.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\EntityFramework.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\Moq.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\Ninject.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.Http.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.pdb
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EShop.WebUI.dll.config
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EShop.WebUI.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EShop.WebUI.pdb
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EntityFramework.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EShop.Domain.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\Moq.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\Ninject.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.Http.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.Providers.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\WebGrease.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EShop.Domain.pdb
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EntityFramework.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\Moq.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\Ninject.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.Http.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.pdb
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\EShop.WebUI.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\EShop.WebUI.pdb
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\EntityFramework.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\EShop.Domain.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\Moq.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\Ninject.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Http.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Providers.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\WebGrease.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\EShop.Domain.pdb
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\EntityFramework.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\Moq.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\Ninject.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Http.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.dll
+C:\Users\Ekaterina\Desktop\забутстрапенный\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.pdb
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EShop.WebUI.dll.config
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EShop.WebUI.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EShop.WebUI.pdb
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EntityFramework.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EShop.Domain.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\Moq.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\Ninject.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Http.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Providers.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\WebGrease.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EShop.Domain.pdb
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EntityFramework.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\Moq.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\Ninject.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Http.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.pdb
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EShop.WebUI.dll.config
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EShop.WebUI.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EShop.WebUI.pdb
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EntityFramework.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EShop.Domain.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\Moq.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\Ninject.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.Http.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.Providers.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\WebGrease.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EShop.Domain.pdb
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EntityFramework.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\Moq.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\Ninject.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.Http.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.dll
+C:\Users\Katsiaryna_Ledak\Projects\костыль\EShop\EShop.WebUI\obj\Debug\EShop.WebUI.pdb

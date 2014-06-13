@@ -1,0 +1,38 @@
+﻿@model IEnumerable<EShop.Domain.Entities.Product>
+
+@{
+  ViewBag.Title = "Admin: All Products";
+  Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container">
+    <h1>Все продукты</h1>
+    <a href="Create" role="button" class="btn btn-success btn-large pull-right"><i class="glyphicon-plus glyphicon-white"></i> Добавить новые элементы</a>
+</div>    
+    <div class="container">
+        <table class="table table-hover table-bordered">
+            <tr class="success">
+                <th>ID</th>
+                <th>Название</th>
+                <th class="NumericCol">Цена</th>
+                <th>Действия</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductID</td>
+                    <td>@Html.ActionLink(item.Name, "Edit", new { item.ProductID })</td>
+                    <td class="NumericCol">@item.Price.ToString("c")</td>
+                    <td>
+                        
+                        @using (Html.BeginForm("Delete", "Admin"))
+                        {
+                            @Html.Hidden("ProductID", item.ProductID)
+                            
+                            <button class="btn btn-mini btn-danger" type="submit"><i class="glyphicon glyphicon-trash" style="color: white"></i> Удалить</button>
+                        }
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+

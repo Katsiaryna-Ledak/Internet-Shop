@@ -1,0 +1,39 @@
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\bin\Debug\EShop.Domain.dll.config
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\bin\Debug\EShop.Domain.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\bin\Debug\EShop.Domain.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\obj\Debug\EShop.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\obj\Debug\EShop.Domain.dll
+C:\Users\Ekaterina\Documents\Visual Studio 2012\Projects\EShop\EShop.Domain\obj\Debug\EShop.Domain.pdb
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\bin\Debug\EShop.Domain.dll.config
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\bin\Debug\EShop.Domain.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\bin\Debug\EShop.Domain.pdb
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\obj\Debug\EShop.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\obj\Debug\EShop.Domain.dll
+C:\Users\Katsiaryna_Ledak\Projects\EShop\EShop.Domain\obj\Debug\EShop.Domain.pdb
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\bin\Debug\EShop.Domain.dll.config
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\bin\Debug\EShop.Domain.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\bin\Debug\EShop.Domain.pdb
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\obj\Debug\EShop.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\obj\Debug\EShop.Domain.dll
+C:\Users\Katsiaryna_Ledak\Projects\забутстрапенный\EShop\EShop.Domain\obj\Debug\EShop.Domain.pdb

@@ -1,0 +1,27 @@
+﻿@model EShop.Domain.Entities.Cart
+
+<style>
+    l {
+        color: #ffffff; /* Цвет текста */
+    }
+</style>
+
+<ul class="navbar navbar-inverse">
+    <li >
+        <l>
+            <ul class="nav nav-pills pull-right">
+                <b><span class="glyphicon glyphicon-shopping-cart"></span> Ваша корзина:</b>
+                @Model.Lines.Sum(x => x.Quantity) товар(ов),
+                @Model.ComputeTotalValue().ToString("c")
+            </ul>
+        </l>
+    </li>
+    <li>
+        <l>
+            <p align="right">
+                @Html.ActionLink("Проверить", "Index", "Cart", new { returnUrl = Request.Url.PathAndQuery }, null)
+            </p>
+        </l>
+    </li>
+
+</ul>

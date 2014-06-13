@@ -1,0 +1,23 @@
+﻿@model IEnumerable<string>
+
+<h3><p align="center">@Html.ActionLink("Главная", "List", "Product")</p></h3>
+
+<table width:"100%" class="table table-bordered">
+    <tr>
+        @foreach (var link in Model)
+        {
+            <td @DefaultHelper.GetWidth(Model.Count())>
+                    @Html.RouteLink(link, new
+          {
+              controller = "Product",
+              action = "List",
+              category = link,
+              page = 1
+          },
+            new
+            {
+                @class = link == ViewBag.SelectedCategory ? "selected" : null
+            })
+        </td>}
+    </tr>
+</table>

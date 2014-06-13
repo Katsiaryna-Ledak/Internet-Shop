@@ -1,0 +1,35 @@
+﻿@model SimpleLogInSystem.Models.UserModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true, "Не удалось войти в систему, проверьте введенные данные.")
+    
+    <div>
+        <fieldset>
+            <legend>Вход в систему</legend>
+            <div>@Html.LabelFor(u => u.Email)</div>
+
+            <div>@Html.TextBoxFor(u => u.Email)
+                @Html.ValidationMessageFor(u => u.Email)
+            </div>
+
+            <div>@Html.LabelFor(u => u.Password)</div>
+
+            <div>@Html.PasswordFor(u => u.Password)
+                @Html.ValidationMessageFor(u => u.Password)
+            </div>
+
+            <input type="submit" value="Log In" />
+
+        </fieldset>
+
+    </div>
+    
+    
+}
+

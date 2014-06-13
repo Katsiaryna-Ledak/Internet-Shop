@@ -1,0 +1,41 @@
+﻿@model EShop.WebUI.Models.LoginViewModel
+
+@{
+    ViewBag.Title = "Admin: Log In";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<ul class="navbar navbar-inverse">
+    <li>
+        <l>
+            <ul class="nav nav-pills pull-left" style="color:white">
+                <h3><b><span class="glyphicon glyphicon-user" style="color:white"></span> Log In</b></h3>
+            </ul>
+        </l>
+    </li>
+    </ul>
+    <h3><p>Please log in to access the administrative area:</p></h3>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary()
+        <div class="container">
+            <div class="row">
+                <div class="container">
+                    <label class="col-sm-2 control-label">UserName</label>
+                    <input type="text" name="UserName" id="UserName" placeholder="UserName" required autofocus>
+                </div>
+                <div class="container">
+                    <label class="col-sm-2 control-label">Password</label>
+                    <input type="password" name="Password" id="Password" placeholder="Password" required>
+                </div>
+                <div class="container">
+                    <label class="checkbox">
+                        <input type="checkbox" name="remember"> Remember me
+                    </label>
+                </div>
+                <button class="btn  btn-primary" type="submit">Log In</button>
+            </div>
+        </div>
+    }
